@@ -8,7 +8,7 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.xuyz.leetcode;
+package com.xuyz.leetcode.addtwonumbers;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -25,7 +25,6 @@ public class AddTwoNumbers {
 
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode listNode = new ListNode(0);
-        
         List<Integer> list1 = new ArrayList();
         list1.add(l1.val);
         while (l1.next.val>=0){

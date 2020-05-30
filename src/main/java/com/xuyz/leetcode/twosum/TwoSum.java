@@ -8,10 +8,7 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.xuyz.leetcode;
-
-import java.util.HashMap;
-import java.util.Map;
+package com.xuyz.leetcode.twosum;
 
 /**
  * 〈一句话功能简述〉<br> 
